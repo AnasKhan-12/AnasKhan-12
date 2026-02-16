@@ -41,12 +41,6 @@ I specialize in building production-grade AI systems and intelligent application
 
 ---
 
-## 📂 Featured Projects
-
-> Check out my pinned repositories below for my latest work in AI agents, LLM applications, and ML pipelines.
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/ans-amanullah)
