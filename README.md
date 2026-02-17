@@ -9,7 +9,6 @@ I specialize in building production-grade AI systems and intelligent application
 ## 🚀 What I'm Working On
 
 - **Building Agentic AI Systems** using LangChain & LangGraph
-- **Developing Production APIs** with FastAPI and Gemini API
 - **Exploring** advanced reasoning frameworks and multi-agent architectures
 - **Open to collaborations** on AI/ML projects
 
