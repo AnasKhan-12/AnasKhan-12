@@ -6,7 +6,7 @@ I specialize in building production-grade AI systems and intelligent application
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
 - **Building Agentic AI Systems** using LangChain & LangGraph
 - **Exploring** advanced reasoning frameworks and multi-agent architectures
@@ -14,7 +14,7 @@ I specialize in building production-grade AI systems and intelligent application
 
 ---
 
-## 💡 Core Expertise
+##  Core Expertise
 
 **AI & Machine Learning**
 > Machine Learning · Deep Learning · LangChain · LangGraph · Gemini API · Prompt Engineering · Agentic Architectures · RAG Systems
@@ -27,7 +27,7 @@ I specialize in building production-grade AI systems and intelligent application
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
