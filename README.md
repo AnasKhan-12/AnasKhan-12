@@ -8,8 +8,8 @@ I specialize in building production-grade AI systems and intelligent application
 
 ##  What I'm Working On
 
-- **Building Agentic AI Systems** using LangChain & LangGraph
-- **Exploring** advanced reasoning frameworks and multi-agent architectures
+- **Building RAG Systems** using LangChain & LangGraph
+- **Exploring** advanced reasoning frameworks and Agentic AI
 - **Open to collaborations** on AI/ML projects
 
 ---
@@ -17,10 +17,10 @@ I specialize in building production-grade AI systems and intelligent application
 ##  Core Expertise
 
 **AI & Machine Learning**
-> Machine Learning · Deep Learning · LangChain · LangGraph · Gemini API · Prompt Engineering · Agentic Architectures · RAG Systems
+> Machine Learning · Generative AI · LangChain · LangGraph · Gemini API · Prompt Engineering · Agentic Architectures · RAG Systems
 
 **Languages & Frameworks**
-> Python · FastAPI · REST APIs
+> Python · FastAPI · LangChain · LangGraph · Pandas · Scikit-Learn · Numpy
 
 **Tools & Platforms**
 > Git · GitHub · Google AI Studio · Jupyter · VS Code
