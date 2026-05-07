@@ -1,4 +1,4 @@
-# Hi, I'm Ans Aman Ullah 
+# Hi, I'm Ans Amanullah 
 
 **AI Engineer | ML & Gen AI | Building Intelligent Systems**
 
